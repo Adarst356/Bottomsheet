@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">office24</string>
+    <string name="stay_tuned_to_bhim_app">Stay tuned to BHIM App</string>
+    <string name="show_bottom_dialog">Show Bottom Dialog</string>
+</resources>
